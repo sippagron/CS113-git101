@@ -1,4 +1,4 @@
-//6210450491 Akarawat Meksangaroonrung 
+//6110450421 Sippagron Visaitsut
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node
